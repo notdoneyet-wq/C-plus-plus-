@@ -7,7 +7,6 @@ int main()
     cout << "Enter two numbers: \n";
     cin >> x >> y;
     z = x + y;
-    cout << "Addition is:\n"
-         << z;
+    cout << "Addition is: " << z << endl;
     return 0;
 }
