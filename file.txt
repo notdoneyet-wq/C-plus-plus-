@@ -38,3 +38,7 @@ only for these tow we can use long and not for other datatypes
 
 highest is of brackets , lowest comes of + and - 
 
+Operator |Precedence
+()       |  1
+*,/,%    |  2
++,-      |  3
