@@ -1,0 +1,27 @@
+Pre/Post increment operators
+
+
+1) Post : x++, x-- [First assign then use the variable]
+2) Pre : --x, ++x  [First use the variable in the assingment then assign]
+
+i) if its given y = ++ x , x=5
+
+here two things are happening, one is increment and the other is assingment
+
+first we increment x , then we assign the resulted value to y.
+
+i.e : y = 6 , x = 6.
+
+ii) if its given y = x ++ , x = 5
+
+first we assign y = x and then increment the value of x.
+
+ie. : y = 5 , x = 6.
+
+eg 1: z = x ++ * y , where x = 5 , y = 10 .
+
+here, y = 10, z = 50, x = 6.
+
+eg 2: z = ++ x * y , where x = 5 , y = 10 .
+
+here , y = 10 , z = 60 , x = 6.
