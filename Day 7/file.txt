@@ -1,0 +1,23 @@
+# Enum (enumerated datatype) and Typedef
+
+enum is useful for user defined datatype;
+
+i)nstead of working on long set of characters you can assign 
+values to them, making it easier for u to fetch them in future
+ii)Makes code easier to read and maintain.
+iii) Group related constants together.
+
+#Typedef (Type defination) 
+
+Used to make the program look more readable
+
+!!! (Updates)
+
+nowdays people prefer "using" over " Typedef"
+
+using marks = int;
+using roll_no = int;
+
+
+It does exactly the same thing but is generally easier 
+to read, especially for complex types.
